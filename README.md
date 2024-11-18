@@ -9,3 +9,6 @@ This repository contains PDF file for the manuscript, the supplementary data, an
 
 ### pARS1-4.1kb.dna
 The DNA sequence for pARS1-4.1kb
+
+### repli-pore-seq-classifier
+The codes to classify biotinylated DNA in the Repli-pore-seq pipeline

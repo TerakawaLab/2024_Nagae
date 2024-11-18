@@ -11,4 +11,4 @@ This repository contains PDF file for the manuscript, the supplementary data, an
 The DNA sequence for pARS1-4.1kb
 
 ### repli-pore-seq-classifier
-The codes to classify biotinylated DNA in the Repli-pore-seq pipeline
+The codes to classify biotinylated DNA in the Repli-pore-seq pipeline. The latest version may be available at https://github.com/Fritz1414213562/repli-pore-seq-classifier.

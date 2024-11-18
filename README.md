@@ -7,7 +7,7 @@ Upon eukaryotic DNA replication, symmetric histone recycling from parental to da
 ## Contents
 This repository contains PDF file for the manuscript, the supplementary data, and the codes
 
-### pARS1-4.1kb.dna
+### pARS1-4.1kb.fasta
 The DNA sequence for pARS1-4.1kb
 
 ### repli-pore-seq-classifier
